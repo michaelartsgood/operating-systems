@@ -8,6 +8,10 @@ Virtual memory is a form of memory management in an operating system. It works b
 memory (finite memory storage which can run out)) to disk storage, and it does this by using both hardware and software to 
 allow a computer to compensate for physical memory shortages. 
 
+A performance monitor is a system monitoring program that monitors a wide variety of activities on a computer such as CPU and 
+memory usage. This program provides the user with an overview of various activities so that the user can determine/diagnose 
+(locally or remotely) problems with hardware and software through measuring the performance of these activities. Categories 
+of information that can be monitored includes file system, kernel, and memory manager. 
 
 
 
