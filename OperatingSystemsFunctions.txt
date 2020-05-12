@@ -1,0 +1,7 @@
+One type of user interface that is most common with consumer products is a graphical user interface or GUI 
+(contrasted with a command-line interface). This interface allows the user to interact with electronic devices 
+such as personal computers, smart phones, etc., through graphic icons and audio. Here, the user manages the interface 
+through direct manipulation of them; e.g., opening and closing windows and applications, as opposed to being required 
+to type in lines of commands. 
+
+
