@@ -4,8 +4,5 @@ such as personal computers, smart phones, etc., through graphic icons and audio.
 through direct manipulation of them; e.g., opening and closing windows and applications, as opposed to being required 
 to type in lines of commands. 
 
-Virtual memory is a form of memory management in an operating system. It works by temporarily transferring data from random access 
-memory (finite memory storage which can run out)) to disk storage, and it does this by using both hardware and software to allow 
-a computer to compensate for physical memory shortages. 
 
 
